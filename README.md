@@ -1,0 +1,2 @@
+# Objective-C
+My highschool did not have any programming classes. In grade 10 (2014-2015), I decided to do an independent study in Objective C. At the time this was the language that Apple used to develope OS and iOS apps, which is why I was interested in learning it. That same year Apple announced they are switched to Swift as their developing language, so I stopped learning Objective-C after my independent study had concluded. This repo is what remained. I don't like Objective-C.
